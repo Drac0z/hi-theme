@@ -1,0 +1,18 @@
+@import url('https://discord.com/assets/7a30d51ded4f8365e3e69a06f4a4f9bb.css');
+
+:root {
+    --background-image: url('https://t4.ftcdn.net/jpg/03/50/89/23/360_F_350892364_uqgcFHywAXpwWfhA4Qnjs9KCNT9mnauY.jpg');
+    --background-size: cover;
+    --background-blur: blur(8px);
+    --background-overlay: rgba(0, 0, 0, 0.5);
+}
+
+.app-1q1i1E {
+    background-image: var(--background-image);
+    background-size: var(--background-size);
+    filter: var(--background-blur);
+}
+
+.layer-2KE1M9 {
+    background-color: var(--background-overlay);
+}
